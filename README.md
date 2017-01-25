@@ -3,13 +3,13 @@
 [![github](https://img.shields.io/badge/github-KodeKunstner/sample-application-blue.svg)](https://github.com/KodeKunstner/sample-application)
 [![codeclimate](https://img.shields.io/codeclimate/github/KodeKunstner/sample-application.svg)](https://codeclimate.com/github/KodeKunstner/sample-application)
 
-# Hello world, this is a test
+# Sample application
 
 This is a bit of documentation, try 'Read' above. Code can be written as semi-literate code, see more here <https://en.wikipedia.org/wiki/Literate_programming>
     
     module.meta = {
       title: 'Sample Application',
-      version: '0.0.1'
+      version: '0.0.2'
     };
     var da = require('direape@0.1');
     da.run(da.parent, 'appedit:html',`
